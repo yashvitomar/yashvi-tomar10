@@ -1,51 +1,58 @@
-# 👋 Hi, I’m Yashvi Tomar
+<!-- Profile Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=200&section=header&text=Hi,%20I'm%20Yashvi%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-**Senior Software Engineer | React Native Expert | Mobile UX Enthusiast**
-
-Welcome to my GitHub space!
-
-I’m a cross-platform mobile developer with 5+ years of experience specializing in **React Native**. I love crafting smooth, scalable apps that not only work beautifully but also feel great to use. Whether it's an eCommerce platform or an OTT streaming app, my focus is always on delivering a clean user experience backed by solid architecture and performance optimization.
-
----
-
-## 🚀 What I Love Building
-
-- **Mobile Apps That Feel Native:** From concept to deployment, I build polished apps using **React Native**, **TypeScript**, and **Expo CLI**, ensuring smooth experiences across both iOS and Android.
-- **User-First UI/UX:** I work closely with design teams to implement pixel-perfect interfaces that elevate usability and accessibility.
-- **Modern Web Experiences:** I also dabble in the web world with **React.js**, **Next.js**, and **Tailwind CSS** for clean, responsive frontend design.
-- **Powerful Integrations:** I’m well-versed in integrating tools like **Firebase**, **Crashlytics**, **CMS platforms**, and **OAuth** for authentication and analytics.
-- **Developer Tools & CI/CD:** I keep projects maintainable and scalable with **Git**, **GitHub**, and automation workflows.
+<p align="center">
+  <b>Senior Software Engineer | React Native Specialist | UI/UX Developer</b><br/>
+  <i>Building elegant mobile apps with powerful functionality</i>
+</p>
 
 ---
 
-## 🌟 Projects I'm Proud Of
+## 🚀 About Me
 
-- **Wynn Resorts** – A luxury resort booking and event platform with a sophisticated UI and seamless booking experience.
-- **BJ’s Wholesale** – A U.S.-based wholesale eCommerce app with bulk shopping, member benefits, and secure payments.
-- **Audio News App** – A news streaming app that mimics music platforms, allowing users to listen, create playlists, and consume news on-the-go.
-- **AHA OTT Platform** – A native-language streaming platform for Tamil and Telugu entertainment lovers with intuitive navigation and smooth playback.
-- **Omantara** – A wellness app offering personalized mental health exercises and daily habit tracking to support emotional resilience.
-- **Swag Liv** – A dynamic social entertainment platform with live video, talent shows, in-app shopping, and streaming — all in one super-app.
+I'm a passionate React Native developer with 5+ years of experience building seamless, high-performance mobile apps. I specialize in crafting user-centric, scalable experiences with clean architecture, smooth animations, and secure integrations. From eCommerce to OTT, I build apps users love.
 
 ---
 
-## 🧰 My Toolkit
+## 🛠️ Tech Stack
 
-Here are some of the tools and technologies I work with regularly:
-
-- **Languages & Frameworks:** React Native, JavaScript, TypeScript, React.js, Next.js
-- **Styling:** Tailwind CSS, HTML5, CSS3
-- **State Management:** Redux, Context API
-- **Mobile Tools:** Expo, Firebase, Crashlytics, OAuth, Xcode, Android Studio
-- **Platforms & Services:** Git, GitHub, CMS, CI/CD
+| Mobile        | Frontend        | Backend/Services       | Tools & Platforms       |
+|---------------|-----------------|------------------------|-------------------------|
+| 📱 React Native | ⚛️ React / Next.js | 🔥 Firebase / Crashlytics | 🧪 Git, GitHub, Xcode, Android Studio |
+| 🛠 TypeScript   | 🎨 Tailwind CSS   | 🔐 OAuth, CMS           | 🚀 CI/CD, Expo CLI        |
+| 🔁 Redux, Context API | 💻 HTML, CSS   |                        |                         |
 
 ---
 
-## 📫 Let’s Connect
+## 🌟 Featured Projects
 
-I’m always up for new ideas, collaborations, or just a good dev chat!
+- 🎯 **Wynn Resorts**  
+  Luxury booking platform with seamless UX and elegant design
 
-- ✉️ Email: yashvitomar10@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yashvi-tomar10)
+- 🛒 **BJ's Wholesale**  
+  Wholesale eCommerce app with member-exclusive features and secure payments
 
-Thanks for stopping by — let’s build something amazing together!
+- 🎧 **Audio News App**  
+  Spotify-style news experience with personalized playlists and streaming
+
+- 🎬 **AHA OTT Platform**  
+  Streaming for Tamil & Telugu audiences with smooth playback and native feel
+
+- 🧘‍♀️ **Omantara**  
+  Wellness app with guided exercises and habit tracking
+
+- 📺 **Swag Liv**  
+  All-in-one entertainment platform with live video, shopping, and OTT content
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="mailto:yashvitomar10@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yashvi-tomar10"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+> *Let’s build something impactful, elegant, and user-first — together.*

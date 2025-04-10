@@ -11,9 +11,11 @@
 
 ## 🚀 About Me
 
-I’m a cross-platform mobile developer with **5+ years of experience** building user-first apps using **React Native**. My work spans industries — from luxury resorts and OTT platforms to eCommerce and mental wellness.
+I’m a cross-platform mobile developer with 5+ years of experience building user-centric apps using React Native. I’ve delivered polished digital experiences across diverse industries — from luxury resorts and OTT platforms to eCommerce and mental wellness — always with a sharp focus on performance and usability.
 
-I focus on writing scalable, clean code and building **pixel-perfect UI** with smooth performance. Whether it’s refining UX or leading feature modules, I love turning ideas into elegant digital products.
+My approach blends clean, scalable code with a strong eye for design. I specialize in crafting pixel-perfect UIs, optimizing app performance, and shipping smooth, bug-free experiences. Whether I’m leading feature development, collaborating closely with designers, or solving tough technical challenges, I bring creativity, precision, and reliability to every build.
+
+I'm passionate about design systems, animations, and native integrations, and I stay up-to-date with the latest in mobile tech. At the core, I love turning complex ideas into simple, elegant products that people genuinely enjoy using.
 
 ---
 
